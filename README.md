@@ -20,8 +20,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Kushalkush-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushalkush-dev&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushalkush-dev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushalkush-dev&theme=tokyonight" />
 </p>
 
 ---
