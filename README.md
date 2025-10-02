@@ -4,7 +4,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+Express%7C+MongoDB;Eat+Sleep+Code+Repeat;Best+is+Yet+Come+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+Express%7C+MongoDB;Eat+Sleep+Code+Repeat;Best+is+Yet+to+Come+%F0%9F%9A%80" />
 </p>
 
 ---
