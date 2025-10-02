@@ -4,7 +4,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+Express%7C+MongoDB;Eat+Sleep+Code+Repeat+%26+Design;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+Express%7C+MongoDB;Eat+Sleep+Code+Repeat;Best+is+Yet+Come+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -28,9 +28,7 @@
 
 ## 🌌 Fun Extras  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kushalkush-dev&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushalkush-dev&theme=react-dark&hide_border=true&area=true" />
@@ -38,5 +36,5 @@
 
 ---
 
-<p align="center">⚡ “Think in systems. Build for tomorrow.” ⚡</p>
+<p align="center">⚡ “A day without Knowledge,Is a Day Wasted.” ⚡</p>
 
