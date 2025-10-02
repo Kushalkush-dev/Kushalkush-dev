@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Futuristic Header -->
+<h1 align="center">⚡ Hey, I'm Kushal ⚡</h1>
+<h3 align="center">Building the future, one commit at a time 👾</h3>
 
-<!--
-**Kushalkush-dev/Kushalkush-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Lover+of+Clean+Code+%26+Design;Always+Learning+%F0%9F%9A%80" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Arsenal  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushalkush-dev&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushalkush-dev&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🌌 Fun Extras  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kushalkush-dev&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushalkush-dev&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">⚡ “Think in systems. Build for tomorrow.” ⚡</p>
+
