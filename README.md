@@ -4,7 +4,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+Express%7C+MongoDB;Eat+Sleep+Code+Repeat;Best+is+Yet+to+Come+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Eat+Sleep+Code+Repeat;Best+is+Yet+to+Come+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -24,17 +24,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushalkush-dev&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
-
-## 🌌 Fun Extras  
-
-
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushalkush-dev&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushalkush-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-<p align="center">⚡ “A day without Knowledge,Is a Day Wasted.” ⚡</p>
+## 🌌 Fun Extras  
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushalkush-dev&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">⚡ “A day without Knowledge, is a Day Wasted.” ⚡</p>
